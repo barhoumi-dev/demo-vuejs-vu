@@ -34,10 +34,10 @@
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.23.4.tgz#409fbe690c333bb70187e2de4021e1e47a026661"
   integrity sha512-vf3Xna6UEprW+7t6EtOmFpHNAuxw3xqPZghy+brsnusscJRW5BMUzzHZc5ICjULee81WeUV2jjakG09MDglJXQ==
 
-"@barhoumi-dev/private-package@^1.0.6":
-  version "1.0.8"
-  resolved "https://npm.pkg.github.com/download/@barhoumi-dev/private-package/1.0.8/4f2794c6b8b348987fdaf982a7dd71aa5926b9cf#4f2794c6b8b348987fdaf982a7dd71aa5926b9cf"
-  integrity sha512-u2Ceb6mbKfF9Bb2cveUyuIAVjpNk173KZJ8gGLvmmue5ORM44Z1LNO3unxZYk1mq0TGVJ0juvyrlo8epP1ukmg==
+"@barhoumi-dev/vuejs-todos@^1.0.2":
+  version "1.0.2"
+  resolved "https://npm.pkg.github.com/download/@barhoumi-dev/vuejs-todos/1.0.2/fc80550998e82776ba063af8e3d27afef34a6d96#fc80550998e82776ba063af8e3d27afef34a6d96"
+  integrity sha512-xq36nv7wuJ0Q5V2ehKmd3W4KZVFYr1gmsJti5fSaeqRntgebRI9ROZFC9IkVcUm1Z1JxrcU9gYKRVWF8Itu/dQ==
   dependencies:
     "@popperjs/core" "^2.11.8"
     "@vueuse/core" "^10.6.1"

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import BTodoList from '@barhoumi-dev/private-package/src/components/BTodoList.vue'
+import BTodoList from '@barhoumi-dev/vuejs-todos/src/components/BTodoList.vue'
 </script>
 
 <template>
