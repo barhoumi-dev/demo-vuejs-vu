@@ -10,3 +10,9 @@ import BTodoList from '@barhoumi-dev/vuejs-todos/src/components/BTodoList.vue'
     </div>
   </main>
 </template>
+
+<style scoped>
+.card {
+  padding: 0;
+}
+</style>
